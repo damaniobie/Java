@@ -1,7 +1,7 @@
 public class Main {
     
     /* merge two sorted arrays 
-       This could be done using the Arrays.copyOf and Arrays.sort functions, but this way is          O(n) complexity
+       This could be done using the Arrays.copyOf and Arrays.sort functions, but this way is O(n) complexity
     */
     public static void main(String[] args) {
         int x[] = {2,3,4,7,9,15,29,39,79,109,227,445,876}; //size 13
